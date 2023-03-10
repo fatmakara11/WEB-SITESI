@@ -1,0 +1,63 @@
+.resimSlider{
+    height: 600px;
+}
+body{
+    padding: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+.hakkimizda{
+    background-color: hsl(0, 1%, 83%);
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid rgb(0, 0, 0);
+    max-width: 250px;
+    margin: 25 auto;
+}
+.igri{
+    color: #000;
+    position: relative;
+    top: -55px;
+    font-size: 59px;
+    border: 10px solid #d4d3d3;
+    background-color:  #d4d3d3;
+
+}
+.ibeyaz{
+    color: #000;
+    position: relative;
+    top: -55px;
+    font-size: 59px;
+    border: 10px solid #ffffff;
+    background-color:  #ffffff;
+
+}
+.ekipCard > img :hover{
+    opacity: 0.8;
+}
+.galeri{
+    background-color: #d4d3d3;
+}
+.igri2{
+    color: #000;
+    position: relative;
+    top: -55px;
+    font-size: 59px;
+    border: 10px solid #d4d3d3;
+    background-color:  #d4d3d3;
+}
+.figure :hover{
+opacity:0.8 ;
+}
+.iletisim{
+    background-color: #ffffff;
+}
+.ibeyaz{
+    color: #000;
+    position: relative;
+    top: -55px;
+    font-size: 59px;
+    border: 10px solid #ffffff;
+    background-color:  #ffffff;
+
+}
